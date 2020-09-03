@@ -1,0 +1,307 @@
+                                                                                                                                * {
+                                                                                                                                    margin: 0px;
+                                                                                                                                    padding: 0px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                body {
+                                                                                                                                    background: url('https://i.ytimg.com/vi/nKt5xnJnrGA/maxresdefault.jpg');
+                                                                                                                                    background-size: cover;
+                                                                                                                                    background-attachment: fixed;
+                                                                                                                                    background-repeat: flexed;
+                                                                                                                                    background: rgba(0, 0, 0, 0.5, 0.5px), rgba(0, 0, 0, 0.5, 0.5px);
+                                                                                                                                    width: 100%;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .container {
+                                                                                                                                    width: 100%;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                li {
+                                                                                                                                    list-style: none;
+                                                                                                                                    text-decoration: none;
+                                                                                                                                    display: inline-block;
+                                                                                                                                    margin: 5px;
+                                                                                                                                    padding: 5px;
+                                                                                                                                    margin-left: 40px;
+                                                                                                                                    font-size: 20px;
+                                                                                                                                    font-weight: bolder;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                li a:hover {
+                                                                                                                                    color: whitesmoke;
+                                                                                                                                    background: transparent;
+                                                                                                                                    border: 1px solid thin;
+                                                                                                                                    list-style: none;
+                                                                                                                                    text-decoration: none;
+                                                                                                                                    font-size: 25px;
+                                                                                                                                    font-weight: bolder;
+                                                                                                                                    outline: black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                img {
+                                                                                                                                    width: 60%;
+                                                                                                                                    height: 65px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .title {
+                                                                                                                                    border: 1px solid black;
+                                                                                                                                    width: 100%;
+                                                                                                                                    height: 500px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .title img {
+                                                                                                                                    width: 100%;
+                                                                                                                                    height: 500px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .row {
+                                                                                                                                    border: 2px solid black;
+                                                                                                                                    width: 100%;
+                                                                                                                                    height: 70px;
+                                                                                                                                    background: black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .col-12 {
+                                                                                                                                    width: 100%;
+                                                                                                                                    height: 730px;
+                                                                                                                                    margin: 5px;
+                                                                                                                                    padding: 10px;
+                                                                                                                                    margin-top: 30px;
+                                                                                                                                    background: url('https://i.ytimg.com/vi/_hk-5twiE60/maxresdefault.jpg');
+                                                                                                                                    background-size: cover;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .text-lg-center {
+                                                                                                                                    font-weight: bold;
+                                                                                                                                    margin-top: 10px;
+                                                                                                                                    color: whitesmoke;
+                                                                                                                                    box-shadow: 0px 0px 5px 20px grey;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .hr {
+                                                                                                                                    width: 20%;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .lifetrends img {
+                                                                                                                                    width: 300px;
+                                                                                                                                    height: 300px;
+                                                                                                                                    margin-top: 20px;
+                                                                                                                                    box-shadow: 0px 0px 0px 20px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .lifetrends {
+                                                                                                                                    border: 0.5px solid skyblue;
+                                                                                                                                    width: 400px;
+                                                                                                                                    height: 600px;
+                                                                                                                                    margin-left: 5px;
+                                                                                                                                    margin: 30px;
+                                                                                                                                    padding: 20px;
+                                                                                                                                    margin-bottom: 30px;
+                                                                                                                                    border-radius: 10%;
+                                                                                                                                    box-shadow: 0px 0px 0px 10px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .MYgrithub {
+                                                                                                                                    border: 0.5px solid skyblue;
+                                                                                                                                    width: 400px;
+                                                                                                                                    height: 600px;
+                                                                                                                                    margin: 30px;
+                                                                                                                                    padding: 20px;
+                                                                                                                                    margin-bottom: 30px;
+                                                                                                                                    border-radius: 10%;
+                                                                                                                                    box-shadow: 0px 0px 0px 10px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                p {
+                                                                                                                                    color: wheat;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .Afillgo {
+                                                                                                                                    border: 0.5px solid skyblue;
+                                                                                                                                    width: 400px;
+                                                                                                                                    height: 600px;
+                                                                                                                                    margin: 30px;
+                                                                                                                                    padding: 20px;
+                                                                                                                                    margin-bottom: 30px;
+                                                                                                                                    border-radius: 10%;
+                                                                                                                                    box-shadow: 0px 0px 0px 10px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .Afillgo img {
+                                                                                                                                    width: 300px;
+                                                                                                                                    height: 300px;
+                                                                                                                                    margin-top: 20px;
+                                                                                                                                    box-shadow: 0px 0px 0px 20px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .MYgrithub img {
+                                                                                                                                    width: 300px;
+                                                                                                                                    height: 300px;
+                                                                                                                                    margin-top: 20px;
+                                                                                                                                    box-shadow: 0px 0px 0px 20px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                svg {
+                                                                                                                                    font-size: 70px;
+                                                                                                                                    margin: 5px;
+                                                                                                                                    padding: 5px;
+                                                                                                                                    margin-left: 120px;
+                                                                                                                                    margin-top: -50px;
+                                                                                                                                    line-height: 2;
+                                                                                                                                    color: whitesmoke;
+                                                                                                                                    background: black;
+                                                                                                                                    border-radius: 50%;
+                                                                                                                                    box-shadow: 0px 0px 10px 20px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .MYgrithub button {
+                                                                                                                                    margin-left: 80px;
+                                                                                                                                    margin-top: 80px;
+                                                                                                                                    font-size: 30px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .Afillgo button {
+                                                                                                                                    margin-left: 80px;
+                                                                                                                                    margin-top: 80px;
+                                                                                                                                    font-size: 30px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .lifetrends button {
+                                                                                                                                    margin-left: 80px;
+                                                                                                                                    margin-top: 58px;
+                                                                                                                                    font-size: 30px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                button:hover {
+                                                                                                                                    box-shadow: 0px 0px 1px 20px black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .border {
+                                                                                                                                    margin-top: 40px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .icons img {
+                                                                                                                                    margin-top: -40px;
+                                                                                                                                    margin-left: -200px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                footer {
+                                                                                                                                    font-size: 20px;
+                                                                                                                                    color: whitesmoke;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-top: -25px;
+                                                                                                                                    background-color: black;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .icons .fa-facebook-square {
+                                                                                                                                    font-size: 40px;
+                                                                                                                                    color: rgb(8, 8, 8);
+                                                                                                                                    margin-left: -180px;
+                                                                                                                                    border: 1px solid black;
+                                                                                                                                    border-radius: 80%;
+                                                                                                                                    box-shadow: 0px 0px 2px 5px black;
+                                                                                                                                    background: lightskyblue;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .icons .fa-whatsapp {
+                                                                                                                                    font-size: 40px;
+                                                                                                                                    color: rgb(10, 10, 10);
+                                                                                                                                    margin-left: 0 px;
+                                                                                                                                    border: 1px solid black;
+                                                                                                                                    border-radius: 50%;
+                                                                                                                                    box-shadow: 0px 0px 2px 5px black;
+                                                                                                                                    background: lightgreen;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .icons .fa-envelope {
+                                                                                                                                    font-size: 40px;
+                                                                                                                                    color: rgb(10, 10, 10);
+                                                                                                                                    margin-left: 0px;
+                                                                                                                                    border: 1px solid black;
+                                                                                                                                    border-radius: 70%;
+                                                                                                                                    box-shadow: 0px 0px 2px 5px black;
+                                                                                                                                    background: lightcoral;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .icons .fa:hover {
+                                                                                                                                    background: rgb(245, 161, 161);
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .icons .fa {
+                                                                                                                                    padding: 15px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                @media only screen and (min-height: 320px) and (max-width: 767px) {
+                                                                                                                                    body {
+                                                                                                                                        background-color: black;
+                                                                                                                                    }
+                                                                                                                                    .header img {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .MYgrithub img {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .Afillgo img {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .lifetrends img {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .Afillgo {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .lifetrends {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .MYgrithub {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .col-12 {
+                                                                                                                                        width: 100%;
+                                                                                                                                        height: 70%;
+                                                                                                                                        flex-direction: column;
+                                                                                                                                    }
+                                                                                                                                    .row {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .title img {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .title {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    .container {
+                                                                                                                                        width: 100%;
+                                                                                                                                    }
+                                                                                                                                    @media only screen and (min-height: 320px) and (max-width: 767px) {
+                                                                                                                                        body {
+                                                                                                                                            background-color: #008080;
+                                                                                                                                        }
+                                                                                                                                        .MainContainer {}
+                                                                                                                                        .MainContainer div {
+                                                                                                                                            width: 100%;
+                                                                                                                                        }
+                                                                                                                                        .SUB1 img {
+                                                                                                                                            width: 12%;
+                                                                                                                                        }
+                                                                                                                                        .About img {
+                                                                                                                                            width: 100%;
+                                                                                                                                        }
+                                                                                                                                        .imagecontainer img {
+                                                                                                                                            width: 100%;
+                                                                                                                                        }
+                                                                                                                                        .VideoAudio video {
+                                                                                                                                            width: 100%;
+                                                                                                                                        }
+                                                                                                                                        .formcontainer {
+                                                                                                                                            width: 60%;
+                                                                                                                                            margin-right: 30%;
+                                                                                                                                        }
+                                                                                                                                        .FOOTER footer:sub {
+                                                                                                                                            margin-right: 10%;
+                                                                                                                                        }
+                                                                                                                                        .subcont {
+                                                                                                                                            margin-bottom: 5%;
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                }
