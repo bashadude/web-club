@@ -22,7 +22,7 @@
                                                                                                                                     display: inline-block;
                                                                                                                                     margin: 5px;
                                                                                                                                     padding: 5px;
-                                                                                                                                    margin-left: 20px;
+                                                                                                                                    margin-left: 40px;
                                                                                                                                     font-size: 20px;
                                                                                                                                     font-weight: bolder;
                                                                                                                                 }
@@ -40,7 +40,9 @@
                                                                                                                                 
                                                                                                                                 img {
                                                                                                                                     width: 60%;
-                                                                                                                                    height: 65px;
+                                                                                                                                    height: 65px; 
+                                                                                                                                    margin-left: -20px;
+
                                                                                                                                 }
                                                                                                                                 
                                                                                                                                 .title {
