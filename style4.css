@@ -71,7 +71,7 @@ input {
     box-shadow: 7px 17px 23px 21px rgba(212, 204, 212, 0.62);
 }
 
-.btn {
+.btn-outline {
     font-size: 40px;
     width: 180px;
     font-weight: bold;
