@@ -157,23 +157,23 @@
                                                                                                                                 .MYgrithub button {
                                                                                                                                     margin-left: 80px;
                                                                                                                                     margin-top: 80px;
-                                                                                                                                    font-size: 30px;
+                                                                                                                                    font-size: 20px;
                                                                                                                                 }
                                                                                                                                 
                                                                                                                                 .Afillgo button {
                                                                                                                                     margin-left: 80px;
                                                                                                                                     margin-top: 80px;
-                                                                                                                                    font-size: 30px;
+                                                                                                                                    font-size: 20px;
                                                                                                                                 }
                                                                                                                                 
                                                                                                                                 .lifetrends button {
                                                                                                                                     margin-left: 80px;
                                                                                                                                     margin-top: 58px;
-                                                                                                                                    font-size: 30px;
+                                                                                                                                    font-size: 20px;
                                                                                                                                 }
                                                                                                                                 
                                                                                                                                 button:hover {
-                                                                                                                                    box-shadow: 0px 0px 1px 20px black;
+                                                                                                                                    box-shadow: 0px 0px 1px 10px black;
                                                                                                                                 }
                                                                                                                                 
                                                                                                                                 .border {
@@ -273,35 +273,5 @@
                                                                                                                                     .container {
                                                                                                                                         width: 100%;
                                                                                                                                     }
-                                                                                                                                    @media only screen and (min-height: 320px) and (max-width: 767px) {
-                                                                                                                                        body {
-                                                                                                                                            background-color: #008080;
-                                                                                                                                        }
-                                                                                                                                        .MainContainer {}
-                                                                                                                                        .MainContainer div {
-                                                                                                                                            width: 100%;
-                                                                                                                                        }
-                                                                                                                                        .SUB1 img {
-                                                                                                                                            width: 12%;
-                                                                                                                                        }
-                                                                                                                                        .About img {
-                                                                                                                                            width: 100%;
-                                                                                                                                        }
-                                                                                                                                        .imagecontainer img {
-                                                                                                                                            width: 100%;
-                                                                                                                                        }
-                                                                                                                                        .VideoAudio video {
-                                                                                                                                            width: 100%;
-                                                                                                                                        }
-                                                                                                                                        .formcontainer {
-                                                                                                                                            width: 60%;
-                                                                                                                                            margin-right: 30%;
-                                                                                                                                        }
-                                                                                                                                        .FOOTER footer:sub {
-                                                                                                                                            margin-right: 10%;
-                                                                                                                                        }
-                                                                                                                                        .subcont {
-                                                                                                                                            margin-bottom: 5%;
-                                                                                                                                        }
-                                                                                                                                    }
+                                                                                                                                    
                                                                                                                                 }
